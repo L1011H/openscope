@@ -7,6 +7,7 @@
 
 
 ### Enhancements & Refactors
+- [#1370](https://github.com/openscope/openscope/issues/1370) - Upgrade dependencies and address `npm audit` issues 
 
 
 # 6.12.3 (April 22, 2019)
