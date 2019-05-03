@@ -7,6 +7,7 @@
 
 
 ### Enhancements & Refactors
+- [#1319](https://github.com/openscope/openscope/issues/1319) - Addresses lint errors in documentation files
 
 
 # 6.12.3 (April 22, 2019)
